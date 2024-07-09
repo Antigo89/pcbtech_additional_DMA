@@ -1,0 +1,65 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBuffer>
+  <FrameBufferWindow width="0" keepAspectRatio="0" zoomToFitWindow="0" addressSpace="" format="0" height="0" autoEvaluate="0" scaleFactor="1" refreshPeriod="0" name="USART_DMA_DAC_Debug" addressText="" accessByDisplayWidth="0"/>
+ </FrameBuffer>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="USART_DMA_DAC_Debug" sizeText="" addressText=""/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="USART_DMA_DAC_Debug" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="USART_DMA_DAC_Debug" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="USART_DMA_DAC_Debug" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="USART_DMA_DAC"/>
+  <ProjectSessionItem path="USART_DMA_DAC;USART_DMA_DAC"/>
+  <ProjectSessionItem path="USART_DMA_DAC;USART_DMA_DAC;Source Files"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="DAC/CR;DAC/SWTRIGR;DAC/DHR12R1;DAC/DHR12L1;DAC/DHR8R1;DAC/DHR12R2;DAC/DHR12L2;DAC/DHR8R2;DAC/DHR12RD;DAC/DHR12LD;DAC/DHR8RD;DAC/DOR1;DAC/DOR2;DAC/SR;DMA1/LISR;DMA1/HISR;DMA1/LIFCR;DMA1/HIFCR;DMA1/S0CR;DMA1/S0NDTR;DMA1/S0PAR;DMA1/S0M0AR;DMA1/S0M1AR;DMA1/S0FCR;DMA1/S1CR;DMA1/S1NDTR;DMA1/S1PAR;DMA1/S1M0AR;DMA1/S1M1AR;DMA1/S1FCR;DMA1/S2CR;DMA1/S2NDTR;DMA1/S2PAR;DMA1/S2M0AR;DMA1/S2M1AR;DMA1/S2FCR;DMA1/S3CR;DMA1/S3NDTR;DMA1/S3PAR;DMA1/S3M0AR;DMA1/S3M1AR;DMA1/S3FCR;DMA1/S4CR;DMA1/S4NDTR;DMA1/S4PAR;DMA1/S4M0AR;DMA1/S4M1AR;DMA1/S4FCR;DMA1/S5CR;DMA1/S5NDTR;DMA1/S5PAR;DMA1/S5M0AR;DMA1/S5M1AR;DMA1/S5FCR;DMA1/S6CR;DMA1/S6NDTR;DMA1/S6PAR;DMA1/S6M0AR;DMA1/S6M1AR;DMA1/S6FCR;DMA1/S7CR;DMA1/S7NDTR;DMA1/S7PAR;DMA1/S7M0AR;DMA1/S7M1AR;DMA1/S7FCR" binaryNodes="" asciiNodes="" openNodes="DAC;DAC/CR;DAC/DHR12R2;DMA1;DMA1/LISR;DMA1/S1CR" name="USART_DMA_DAC_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="USART_DMA_DAC_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="USART_DMA_DAC_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="USART_DMA_DAC_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Each Second">
+   <Watchpoint expression="bufferOUT" name="bufferOUT" radix="-1" linenumber="11" filename="main.c"/>
+  </Watches>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="22" y="28" useTextEdit="1" path="main.c" left="0" selected="1" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="main.h" left="0" top="0" codecName="Default"/>
+ </Files>
+ <EMStudioWindow activeProject="USART_DMA_DAC" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>
